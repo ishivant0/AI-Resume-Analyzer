@@ -6,7 +6,7 @@ The app is designed as a product-style demo with a clean dashboard, structured A
 
 ## Live Site
 
-- Deployed site: https://ai-resume-analyzer-bkxh.onrender.com/(#)
+- Deployed site: https://ai-resume-analyzer-bkxh.onrender.com/
 
 ## What You Can Do
 
